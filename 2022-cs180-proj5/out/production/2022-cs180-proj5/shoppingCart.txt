@@ -1,0 +1,1 @@
+customer@gmail.com;Hitchhiker's Guide To Java,seller@gmail.com,Second Store,A book about chaos and Java programming.,50,12.99,0.30,Good read.

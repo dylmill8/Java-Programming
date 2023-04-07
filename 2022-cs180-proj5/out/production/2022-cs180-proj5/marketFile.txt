@@ -1,0 +1,5 @@
+Hitchhiker's Guide To Java,seller@gmail.com,Second Store,A book about chaos and Java programming.,230,12.99,0.30,Good read.
+Into The Wild,seller@gmail.com,Chris's Books,A book about a boy's trek into the Alaskan wilderness.,100,11.99,0.1,Great book!,Pretty cool.
+Unbroken,seller@gmail.com,Chris's Books,A book about a famous runner turned WWII prisoner.,150,9.99,0,Great!
+Coding For Dummies,dummy@gmail.com,Coding Codex,Teaching dummies how to code.,60,6.99,0.1,Great characters!,At least 5 stars.
+How To Sk8 for Dummies,dummy@gmail.com,Coding Codex,Teaching dummies how to sk8.,28,3.99,0,I loved learning to skate!

@@ -1,0 +1,11 @@
+Part 1: Write your message here from GitHub
+Hello future self!
+
+Task 1: 
+// Under this line, describe what the command 'git fetch' does
+'git fetch' checks the new information on the remote GitHub server so that you can compare it to your local files.
+
+Task 2:
+// Under this line, describe the difference between Git and GitHub
+GitHub is the remote central repository that allows multiple people to work on the same project or file
+whereas Git is the repository on your computer that you can edit locally.
